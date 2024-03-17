@@ -1,8 +1,14 @@
-# React + Vite
+# Background Changer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Simple react app for changing background color.
 
-Currently, two official plugins are available:
+Technology stack :-
+React 
+Tailwind CSS
+Hooks (UseState)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Screenshot :-
+
+![image](https://github.com/SuryaMazumder/Background_changer/assets/44900583/7727ac91-89f7-48ee-92c6-5db2c67aeaf2)
+
+When you click on button Bg Color will change of canvas.
